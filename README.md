@@ -8,7 +8,7 @@ Soluciona problemas de controle de entrada e saída de alunos nas escolas, entre
 ## Público-alvo
 Escolas da rede pública
 
-##Funcionalidades principais
+## Funcionalidades principais
 - Armazenar dados dos alunos autorizados/não autorizados e visitantes
 - Redigir histírico de movimentação da portaria
 - Controle de frequência dos alunos
